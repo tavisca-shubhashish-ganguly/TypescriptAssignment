@@ -1,0 +1,6 @@
+Typescript is a free and opensource programming language created by microsoft. 
+It adds additional features to javascript by incorporating strict type checking.
+Sometimes new features of javascript may not be supported in all browsers, this is taken care by typescript.
+Typescript gives you wrapper functions to write code which is than transcripted/compiled to javascript intermedite code and executed.
+Typescript is a superset of javascript, it contains all features of javascript with the addition to type checking and checks signature of function and class as well.
+typescript address the gaps in javascript and makes building complex apps managebale
